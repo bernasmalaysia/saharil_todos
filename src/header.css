@@ -1,0 +1,15 @@
+.header{
+    /* width: 100vw; */
+    background-color: darkblue;
+    color:#fff;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    font-size: 30px;   
+}
+
+.headerTitle{
+    margin-right: 5rem;
+}

@@ -1,0 +1,27 @@
+.formEdit{
+    display: flex;
+    flex-direction: column;
+}
+
+.postTitle, .textBody{
+    padding: 7px;
+    border: none;
+    border-radius: 3px;
+    margin-top: 7px;
+    
+}
+.textBody{
+    min-height: 120px;
+
+}
+
+.btnEditSubmit{
+    margin-top: 10px;
+    background-color:rgb(76, 228, 76);
+    border:none;
+    border-radius: 3px;
+    padding: 5px;
+    color: black;
+    font-weight: bold;
+    cursor: pointer;
+}

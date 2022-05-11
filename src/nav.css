@@ -1,0 +1,36 @@
+.nav {
+    display: flex;
+    background-color: lightgray;
+    justify-content: space-around;
+    height: 60px;
+}
+
+.formSearch {
+    display: flex;
+    align-items: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.formSearch>label {
+    margin-right: 1rem;
+    margin-left: 1rem;
+}
+
+.formSearch>input {
+    border: none;
+    padding: 10px;
+    border-radius: 3px;
+    margin-right: 1rem;
+}
+
+.menu {
+    display: flex;
+    align-items: center;
+    list-style: none;
+}
+
+.menu > li {
+    margin: 0px 20px 0px 10px;
+    font-weight: bold;
+}

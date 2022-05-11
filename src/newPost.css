@@ -1,0 +1,27 @@
+.formPost{
+    display: flex;
+    flex-direction: column;
+}
+
+.postTitle, .postBody{
+    padding: 7px;
+    border: none;
+    border-radius: 3px;
+    margin-top: 7px;
+    
+}
+.postBody{
+    min-height: 120px;
+
+}
+
+.btnPostSubmit{
+    margin-top: 10px;
+    background-color:rgb(76, 228, 76);
+    border:none;
+    border-radius: 3px;
+    padding: 5px;
+    color: black;
+    font-weight: bold;
+    cursor: pointer;
+}

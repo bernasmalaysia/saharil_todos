@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "react-mysql",
+      "datetime": "July 01, 2022 11:17:36 AM",
+      "body": "This React JS Full Course for Beginners is an all-in-one beginner tutorial and complete course full of nearly 9 hours of React JS code and instruction to level up your programming skills. This course teaches modern React with functional components and hooks. Think of this React full course tutorial as a React JS video textbook with 23 clearly defined chapters."
+    },
+    {
+      "id": 2,
+      "title": "react-postgres",
+      "datetime": "July 01, 2022 11:17:36 AM",
+      "body": "This React JS Full Course for Beginners is an all-in-one beginner tutorial and complete course full of nearly 9 hours of React JS code and instruction to level up your programming skills. This course teaches modern React with functional components and hooks. Think of this React full course tutorial as a React JS video textbook with 23 clearly defined chapters."
+    },
+    {
+      "id": 3,
+      "title": "react-jsonServer",
+      "datetime": "July 01, 2022 11:17:36 AM",
+      "body": "This React JS Full Course for Beginners is an all-in-one beginner tutorial and complete course full of nearly 9 hours of React JS code and instruction to level up your programming skills. This course teaches modern React with functional components and hooks. Think of this React full course tutorial as a React JS video textbook with 23 clearly defined chapters."
+    },
+    {
+      "id": 5,
+      "title": "testingupdate",
+      "datetime": "April 30, 2022 1:50:19 PM",
+      "body": "yess uspadte\n"
+    },
+    {
+      "id": 6,
+      "title": "simplyfy api data",
+      "datetime": "April 30, 2022 1:07:45 PM",
+      "body": "bun store"
+    },
+    {
+      "id": 7,
+      "title": "create developer key",
+      "datetime": "April 30, 2022 1:08:42 PM",
+      "body": "bun store"
+    }
+  ]
+}
